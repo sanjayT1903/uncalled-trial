@@ -1,5 +1,8 @@
-altair
-numpy
+torch
+transformers==2.4.1
+bs4
+google.generativeai
 pandas
-pydeck
+numpy
+pyproject.toml
 streamlit
